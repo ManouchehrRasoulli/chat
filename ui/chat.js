@@ -1,1 +1,1 @@
-console.log(document.getElementsByClassName("active"));
+document.getElementById("demo-id").innerHTML = "Hello user";
